@@ -32,11 +32,11 @@ table {
 #banner{
     background: url(../img/11.jpg) no-repeat center top;
     background-size: cover;
-    min-height: 630px;
+    min-height: 930px;
 }
 .bg-color{
     background-color: RGBA(0, 0, 0, 0.61);
-    min-height: 630px;
+    min-height: 930px;
 }
 #banner h3{
     font-family: 'Satisfy', sans-serif;
@@ -45,18 +45,18 @@ table {
 }
 .header-h {
     color: #FFB03B;
-    font-size: 46px;
+    font-size: 56px;
     font-family: 'Satisfy', sans-serif;
     font-weight: 300;
 }
 p{
     font-family: 'Satisfy', sans-serif;
-    font-size: 25px;
+    font-size: 28px;
     color: #ff3333;;
 }
 .header-p{
     font-family: 'Satisfy', sans-serif;
-    font-size: 25px;
+    font-size: 28px;
     color: #ff3333;;
 }
 .light-blue, .contacts-sp{
